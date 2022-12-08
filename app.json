@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "medication-reminder-frontend-mfs",
+    "slug": "medication-reminder-frontend-mfs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
